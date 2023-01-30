@@ -1,0 +1,8 @@
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\CircleProblem\CircleProblem\bin\Debug\CircleProblem.exe.config
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\CircleProblem\CircleProblem\bin\Debug\CircleProblem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\CircleProblem\CircleProblem\bin\Debug\CircleProblem.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\CircleProblem\CircleProblem\obj\Debug\CircleProblem.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\CircleProblem\CircleProblem\obj\Debug\CircleProblem.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\CircleProblem\CircleProblem\obj\Debug\CircleProblem.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\CircleProblem\CircleProblem\obj\Debug\CircleProblem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\CircleProblem\CircleProblem\obj\Debug\CircleProblem.pdb
