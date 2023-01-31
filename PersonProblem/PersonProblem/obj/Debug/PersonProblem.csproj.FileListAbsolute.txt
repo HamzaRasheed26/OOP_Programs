@@ -1,0 +1,8 @@
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\PersonProblem\PersonProblem\bin\Debug\PersonProblem.exe.config
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\PersonProblem\PersonProblem\bin\Debug\PersonProblem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\PersonProblem\PersonProblem\bin\Debug\PersonProblem.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\PersonProblem\PersonProblem\obj\Debug\PersonProblem.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\PersonProblem\PersonProblem\obj\Debug\PersonProblem.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\PersonProblem\PersonProblem\obj\Debug\PersonProblem.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\PersonProblem\PersonProblem\obj\Debug\PersonProblem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8 PD\PersonProblem\PersonProblem\obj\Debug\PersonProblem.pdb
