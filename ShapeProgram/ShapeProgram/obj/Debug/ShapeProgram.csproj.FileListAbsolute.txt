@@ -1,0 +1,8 @@
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8\ShapeProgram\ShapeProgram\bin\Debug\ShapeProgram.exe.config
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8\ShapeProgram\ShapeProgram\bin\Debug\ShapeProgram.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8\ShapeProgram\ShapeProgram\bin\Debug\ShapeProgram.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8\ShapeProgram\ShapeProgram\obj\Debug\ShapeProgram.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8\ShapeProgram\ShapeProgram\obj\Debug\ShapeProgram.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8\ShapeProgram\ShapeProgram\obj\Debug\ShapeProgram.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8\ShapeProgram\ShapeProgram\obj\Debug\ShapeProgram.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 8\ShapeProgram\ShapeProgram\obj\Debug\ShapeProgram.pdb
