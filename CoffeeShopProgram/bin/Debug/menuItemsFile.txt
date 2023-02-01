@@ -1,0 +1,3 @@
+tea,Drink,30
+Coffee,Drink,50
+Cookies,Food,20
