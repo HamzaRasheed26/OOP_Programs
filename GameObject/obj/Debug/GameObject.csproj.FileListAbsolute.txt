@@ -1,0 +1,32 @@
+H:\Hamza\SEMESTER 02\Lab OOP\week 5 PD\GameObject\bin\Debug\GameObject.exe.config
+H:\Hamza\SEMESTER 02\Lab OOP\week 5 PD\GameObject\bin\Debug\GameObject.exe
+H:\Hamza\SEMESTER 02\Lab OOP\week 5 PD\GameObject\bin\Debug\GameObject.pdb
+H:\Hamza\SEMESTER 02\Lab OOP\week 5 PD\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+H:\Hamza\SEMESTER 02\Lab OOP\week 5 PD\GameObject\obj\Debug\GameObject.csproj.SuggestedBindingRedirects.cache
+H:\Hamza\SEMESTER 02\Lab OOP\week 5 PD\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+H:\Hamza\SEMESTER 02\Lab OOP\week 5 PD\GameObject\obj\Debug\GameObject.exe
+H:\Hamza\SEMESTER 02\Lab OOP\week 5 PD\GameObject\obj\Debug\GameObject.pdb
+D:\HamzaRasheed 2021-CS-26\HamzaRasheed 2021-CS-26\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+D:\HamzaRasheed 2021-CS-26\HamzaRasheed 2021-CS-26\GameObject\obj\Debug\GameObject.csproj.SuggestedBindingRedirects.cache
+D:\HamzaRasheed 2021-CS-26\HamzaRasheed 2021-CS-26\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+D:\HamzaRasheed 2021-CS-26\HamzaRasheed 2021-CS-26\GameObject\obj\Debug\GameObject.exe
+D:\HamzaRasheed 2021-CS-26\HamzaRasheed 2021-CS-26\GameObject\obj\Debug\GameObject.pdb
+D:\HamzaRasheed 2021-CS-26\HamzaRasheed 2021-CS-26\GameObject\bin\Debug\GameObject.exe.config
+D:\HamzaRasheed 2021-CS-26\HamzaRasheed 2021-CS-26\GameObject\bin\Debug\GameObject.exe
+D:\HamzaRasheed 2021-CS-26\HamzaRasheed 2021-CS-26\GameObject\bin\Debug\GameObject.pdb
+H:\Hamza\GameObject\bin\Debug\GameObject.exe.config
+H:\Hamza\GameObject\bin\Debug\GameObject.exe
+H:\Hamza\GameObject\bin\Debug\GameObject.pdb
+H:\Hamza\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+H:\Hamza\GameObject\obj\Debug\GameObject.csproj.SuggestedBindingRedirects.cache
+H:\Hamza\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+H:\Hamza\GameObject\obj\Debug\GameObject.exe
+H:\Hamza\GameObject\obj\Debug\GameObject.pdb
+H:\Hamza\SEMESTER 02\Lab OOP\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+H:\Hamza\SEMESTER 02\Lab OOP\GameObject\obj\Debug\GameObject.csproj.SuggestedBindingRedirects.cache
+H:\Hamza\SEMESTER 02\Lab OOP\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+H:\Hamza\SEMESTER 02\Lab OOP\GameObject\obj\Debug\GameObject.exe
+H:\Hamza\SEMESTER 02\Lab OOP\GameObject\obj\Debug\GameObject.pdb
+H:\Hamza\SEMESTER 02\Lab OOP\GameObject\bin\Debug\GameObject.exe.config
+H:\Hamza\SEMESTER 02\Lab OOP\GameObject\bin\Debug\GameObject.exe
+H:\Hamza\SEMESTER 02\Lab OOP\GameObject\bin\Debug\GameObject.pdb
