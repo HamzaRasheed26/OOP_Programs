@@ -1,0 +1,24 @@
+H:\Hamza\SEMESTER 02\Lab OOP\Week 4\UAMS\bin\Debug\UAMS.exe.config
+H:\Hamza\SEMESTER 02\Lab OOP\Week 4\UAMS\bin\Debug\UAMS.exe
+H:\Hamza\SEMESTER 02\Lab OOP\Week 4\UAMS\bin\Debug\UAMS.pdb
+H:\Hamza\SEMESTER 02\Lab OOP\Week 4\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+H:\Hamza\SEMESTER 02\Lab OOP\Week 4\UAMS\obj\Debug\UAMS.csproj.SuggestedBindingRedirects.cache
+H:\Hamza\SEMESTER 02\Lab OOP\Week 4\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+H:\Hamza\SEMESTER 02\Lab OOP\Week 4\UAMS\obj\Debug\UAMS.exe
+H:\Hamza\SEMESTER 02\Lab OOP\Week 4\UAMS\obj\Debug\UAMS.pdb
+H:\Hamza\SEMESTER 02\Lab OOP\HamzaRasheed 2021-CS-26\UAMS\bin\Debug\UAMS.exe.config
+H:\Hamza\SEMESTER 02\Lab OOP\HamzaRasheed 2021-CS-26\UAMS\bin\Debug\UAMS.exe
+H:\Hamza\SEMESTER 02\Lab OOP\HamzaRasheed 2021-CS-26\UAMS\bin\Debug\UAMS.pdb
+H:\Hamza\SEMESTER 02\Lab OOP\HamzaRasheed 2021-CS-26\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+H:\Hamza\SEMESTER 02\Lab OOP\HamzaRasheed 2021-CS-26\UAMS\obj\Debug\UAMS.csproj.SuggestedBindingRedirects.cache
+H:\Hamza\SEMESTER 02\Lab OOP\HamzaRasheed 2021-CS-26\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+H:\Hamza\SEMESTER 02\Lab OOP\HamzaRasheed 2021-CS-26\UAMS\obj\Debug\UAMS.exe
+H:\Hamza\SEMESTER 02\Lab OOP\HamzaRasheed 2021-CS-26\UAMS\obj\Debug\UAMS.pdb
+D:\Viva Tasks Hamza\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+D:\Viva Tasks Hamza\UAMS\obj\Debug\UAMS.csproj.SuggestedBindingRedirects.cache
+D:\Viva Tasks Hamza\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+D:\Viva Tasks Hamza\UAMS\obj\Debug\UAMS.exe
+D:\Viva Tasks Hamza\UAMS\obj\Debug\UAMS.pdb
+D:\Viva Tasks Hamza\UAMS\bin\Debug\UAMS.exe.config
+D:\Viva Tasks Hamza\UAMS\bin\Debug\UAMS.exe
+D:\Viva Tasks Hamza\UAMS\bin\Debug\UAMS.pdb
