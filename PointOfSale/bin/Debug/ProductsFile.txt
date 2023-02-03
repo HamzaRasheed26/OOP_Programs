@@ -1,0 +1,3 @@
+cups,Grocery,500,17,1
+apple,Fruit,100,45,5
+asdf,qwert,123,12,11

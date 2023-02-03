@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PointOfSale.BL.Customer">
+    <Position X="1.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAEAAAAAIAAAAAAAAAEAEAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>BL\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSale.BL.MUser">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>BL\MUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PointOfSale.BL.Product">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAIQAAAAAAAAAAAAIgBAAAAAEAIAAQIAMABAAAAA=</HashCode>
+      <FileName>BL\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
