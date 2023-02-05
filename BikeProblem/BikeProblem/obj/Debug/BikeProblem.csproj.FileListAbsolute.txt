@@ -1,0 +1,8 @@
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\BikeProblem\BikeProblem\bin\Debug\BikeProblem.exe.config
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\BikeProblem\BikeProblem\bin\Debug\BikeProblem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\BikeProblem\BikeProblem\bin\Debug\BikeProblem.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\BikeProblem\BikeProblem\obj\Debug\BikeProblem.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\BikeProblem\BikeProblem\obj\Debug\BikeProblem.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\BikeProblem\BikeProblem\obj\Debug\BikeProblem.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\BikeProblem\BikeProblem\obj\Debug\BikeProblem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\BikeProblem\BikeProblem\obj\Debug\BikeProblem.pdb
