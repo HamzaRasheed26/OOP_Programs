@@ -1,0 +1,8 @@
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\StudentProblem\StudentProblem\bin\Debug\StudentProblem.exe.config
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\StudentProblem\StudentProblem\bin\Debug\StudentProblem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\StudentProblem\StudentProblem\bin\Debug\StudentProblem.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\StudentProblem\StudentProblem\obj\Debug\StudentProblem.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\StudentProblem\StudentProblem\obj\Debug\StudentProblem.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\StudentProblem\StudentProblem\obj\Debug\StudentProblem.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\StudentProblem\StudentProblem\obj\Debug\StudentProblem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 7 Lab\StudentProblem\StudentProblem\obj\Debug\StudentProblem.pdb
