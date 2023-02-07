@@ -1,0 +1,16 @@
+D:\Hamza 2021-CS-26\Week 4\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+D:\Hamza 2021-CS-26\Week 4\LibrarySystem\bin\Debug\LibrarySystem.exe
+D:\Hamza 2021-CS-26\Week 4\LibrarySystem\bin\Debug\LibrarySystem.pdb
+D:\Hamza 2021-CS-26\Week 4\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+D:\Hamza 2021-CS-26\Week 4\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
+D:\Hamza 2021-CS-26\Week 4\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\Hamza 2021-CS-26\Week 4\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\Hamza 2021-CS-26\Week 4\LibrarySystem\obj\Debug\LibrarySystem.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 4\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+D:\BS CS\SEMESTER 02\Lab OOP\Week 4\LibrarySystem\bin\Debug\LibrarySystem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 4\LibrarySystem\bin\Debug\LibrarySystem.pdb
+D:\BS CS\SEMESTER 02\Lab OOP\Week 4\LibrarySystem\obj\Debug\LibrarySystem.csproj.AssemblyReference.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 4\LibrarySystem\obj\Debug\LibrarySystem.csproj.SuggestedBindingRedirects.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 4\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\BS CS\SEMESTER 02\Lab OOP\Week 4\LibrarySystem\obj\Debug\LibrarySystem.exe
+D:\BS CS\SEMESTER 02\Lab OOP\Week 4\LibrarySystem\obj\Debug\LibrarySystem.pdb
